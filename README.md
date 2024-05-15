@@ -10,10 +10,10 @@ I am a seasoned Software Developer with extensive experience in various programm
 
 Over the years, I have honed my skills by working on diverse projects that span different domains and industries. My expertise lies in:
 
-Backend Development: Crafting scalable and efficient backend systems using Golang, Java and Rust.
-Architecture: Building highly scalable software solutions to meet advance requirements of new age tech world.
-Cloud Computing: Leveraging cloud platforms like AWS and Google Cloud for deploying and managing applications.
-Microservices Architecture: Designing and implementing microservices that ensure robustness and scalability.
+* Backend Development: Crafting scalable and efficient backend systems using Golang, Java and Rust.
+* Architecture: Building highly scalable software solutions to meet advance requirements of new age tech world.
+* Cloud Computing: Leveraging cloud platforms like AWS and Google Cloud for deploying and managing applications.
+* Microservices Architecture: Designing and implementing microservices that ensure robustness and scalability.
 
 Connect with Me
 
